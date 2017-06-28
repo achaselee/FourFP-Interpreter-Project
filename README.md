@@ -43,17 +43,17 @@ FourFP Language Specifications:
    - To draw a circle:  
                             circle x y r s
                             
-        where x y are the x and y coordinates
-        r is the radius
-        s is the style
+        - where x y are the x and y coordinates
+        - r is the radius
+        - s is the style
     
    - To draw a rectangle:
                             rect x1 y1 x2 y2 s
                             
-        where x1 y1 are the upper left x and y coordinates
-        x2 y2 are the lower right x and y coordinates
-        s is the style
-
+        - where x1 y1 are the upper left x and y coordinates
+        - x2 y2 are the lower right x and y coordinates
+        - s is the style
+        
 9. 
     - Basic arithmetic expressions shall be able to be used.
     - Arithmetic expressions shall be infix notated

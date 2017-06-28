@@ -40,15 +40,17 @@ FourFP Language Specifications:
 8. 
    - To draw shapes, the following instructions shall be defined
    - For each instruction, the arguments shall be either an integer literal or a variable name.
-   - To draw a circle:  
-                            circle x y r s
-                            
+   - To draw a circle:
+   
+        circle x y r s
+   
         - where x y are the x and y coordinates
         - r is the radius
         - s is the style
     
    - To draw a rectangle:
-                            rect x1 y1 x2 y2 s
+   
+        rect x1 y1 x2 y2 s
                             
         - where x1 y1 are the upper left x and y coordinates
         - x2 y2 are the lower right x and y coordinates

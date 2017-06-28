@@ -16,9 +16,9 @@ FourFP Language Specifications:
 3. - Comments are denoted with a # sign
    - Starting at the # sign, everything is ignored until a \n is encountered
 
-4. Variable names shall consist of all lowercase letters.
+4. - Variable names shall consist of all lowercase letters.
 
-5. Variables shall be of only the integer type (for now).
+5. - Variables shall be of only the integer type (for now).
 
 6. - Variables shall be declared and initialized in one line;
    - Variables shall be initialized with a literal integer.

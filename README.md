@@ -1,6 +1,6 @@
 # FourFP-Interpreter-Project
 
-CSC413 final project developed using Android Studio by Adison Lee and Leopoldo Rodriguez.
+CSC413 final project created using Android Studio by Adison Lee and Leopoldo Rodriguez.
 
 FourFP Language Specifications:
 
